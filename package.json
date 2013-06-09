@@ -1,0 +1,14 @@
+{
+  "name": "Minigra",
+  "version": "0.0.1",
+  "author": "kkarczewski",
+  "private": true,
+  "scripts": {
+    "start": "node app"
+  },
+  "dependencies": {
+    "express": "3.x",
+    "ejs": "*",
+    "socket.io": "0.9.x"
+  }
+}
